@@ -20,7 +20,6 @@
 
 
 #import <ZQBaseKit/ZQBaseKitModel.h>
-#import <ZQBaseKit/ZQBaseKitObject.h>
 #import <ZQBaseKit/ZQBaseKitViewModel.h>
 
 #else

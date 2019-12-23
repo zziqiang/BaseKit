@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "ZQBaseKit" # 项目名称
 
-  spec.version      = "1.0.1" # 版本号 与 你仓库的 标签号 一致
+  spec.version      = "1.0.2" # 版本号 与 你仓库的 标签号 一致
 
   spec.summary      = "A set of useful Base Object for Foundation, UIKit and more." # 项目简介
 
@@ -26,6 +26,7 @@ Pod::Spec.new do |spec|
 
   # spec.resources = "Resources/*.png"
 
+  # s.dependency "AFNetworking", "~> 3.2.1"
   spec.frameworks = "UIKit" # 依赖库
 
 

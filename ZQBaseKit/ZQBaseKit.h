@@ -36,7 +36,6 @@
 #import "ZQBaseKitCollectionCell.h"
 
 #import "ZQBaseKitModel.h"
-#import "ZQBaseKitObject.h"
 #import "ZQBaseKitViewModel.h"
 
 #endif /* ZQBaseKit_h */

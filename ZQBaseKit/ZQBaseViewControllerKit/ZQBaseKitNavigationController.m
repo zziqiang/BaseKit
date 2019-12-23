@@ -9,7 +9,7 @@
 #import "ZQBaseKitNavigationController.h"
 
 #define kColorCCC [UIColor colorWithRed:245 green:245 blue:245 alpha:1]
-//#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
 
 @interface ZQBaseKitNavigationController ()<UIGestureRecognizerDelegate>
 @property (strong, nonatomic) UIView *navLineV;

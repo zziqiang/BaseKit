@@ -11,7 +11,6 @@
 #import <ZQBaseKit/ZQBaseKitNavigationController.h>
 #import <ZQBaseKit/ZQBaseKitViewController.h>
 
-#import <ZQBaseKit/ZQBaseKitView.h>
 #import <ZQBaseKit/ZQBaseKitTableView.h>
 #import <ZQBaseKit/ZQBaseKitCollectionView.h>
 #import <ZQBaseKit/ZQBaseKitTableViewCell.h>
@@ -27,7 +26,6 @@
 #import "ZQBaseKitNavigationController.h"
 #import "ZQBaseKitViewController.h"
 
-#import "ZQBaseKitView.h"
 #import "ZQBaseKitTableView.h"
 #import "ZQBaseKitCollectionView.h"
 #import "ZQBaseKitTableViewCell.h"

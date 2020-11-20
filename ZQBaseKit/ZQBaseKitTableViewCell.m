@@ -16,7 +16,6 @@
     self.selectionStyle = UITableViewCellSelectionStyleNone;
     
     self.separatorInset = UIEdgeInsetsMake(0, 0, 0, 0);
-    
     // Initialization code
 }
 
